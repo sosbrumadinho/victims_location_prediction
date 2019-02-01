@@ -1,0 +1,3 @@
+[submodule "fluidtrack"]
+	path = fluidtrack
+	url = https://github.com/hugoaboud/fluidtrack
