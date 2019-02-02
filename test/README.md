@@ -6,7 +6,7 @@ Initial stage of the vectorial field calculation
 
 ### Translate the following MATLAB codes:
 - [ ]  [main](../matlab_code/main.m): Calls all the functions (main script)  
-    **Translation**: Partially finished
+    **Translation**: Partially translated
 - [ ]  [Forca_de_Arraste1](../matlab_code/Forca_de_Arraste1.m): Calculated the drift force as a function of the fluid speed  
 
 - [ ]  [Campo_Velocidades](../matlab_code/Campo_Velocidades.m): Returns the fluid vectorial velocity (`vx, vy`) for a given time and position on the map (`t, x, y, Reg`)  
