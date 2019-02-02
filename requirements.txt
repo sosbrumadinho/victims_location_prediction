@@ -1,0 +1,5 @@
+pandas
+numpy
+utm
+scipy
+math

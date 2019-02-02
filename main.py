@@ -28,6 +28,8 @@ import utm
 # Example: 
 lat, lon = -20., -44.
 x0, y0, utmZoneNumber, utmZoneLetter = utm.from_latlon(lat, lon)
+# Victm's mass
+m = 80 # kg
 
 #############################################################
 # Get the waste vectorial velocity field 
