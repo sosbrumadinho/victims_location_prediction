@@ -3,3 +3,4 @@ numpy
 utm
 scipy
 math
+matplotlib

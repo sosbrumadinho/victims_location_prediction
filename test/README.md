@@ -6,14 +6,14 @@ Initial stage of the vectorial field calculation
 
 ### Translate the following MATLAB codes:
 - [ ]  [main](../matlab_code/main.m): Calls all the functions (main script)  
-    **Translation**: Partially translated
-- [ ]  [Forca_de_Arraste1](../matlab_code/Forca_de_Arraste1.m): Calculated the drift force as a function of the fluid speed  
+    **Translation**: Almost concluded  
+- [x]  [Forca_de_Arraste1](../matlab_code/Forca_de_Arraste1.m): Calculates the drift force as a function of the fluid speed  
 
-- [ ]  [Campo_Velocidades](../matlab_code/Campo_Velocidades.m): Returns the fluid vectorial velocity (`vx, vy`) for a given time and position on the map (`t, x, y, Reg`)  
+- [x]  [Campo_Velocidades](../matlab_code/Campo_Velocidades.m): Returns the fluid vectorial velocity (`vx, vy`) for a given time and position on the map (`t, x, y, Reg`)  
 
-- [ ]  [Plotar_Campo_de_Velocidades](../matlab_code/Plotar_Campo_de_Velocidades.m): Plots the vectorial velocity field
+- [x]  [Plotar_Campo_de_Velocidades](../matlab_code/Plotar_Campo_de_Velocidades.m): Plots the vectorial velocity field
 
-- [ ]  [UTM_da_Regiao_Toda](../matlab_code/UTM_da_Regiao_Toda.m): It still not clear what this part of the code does. 
+- [x]  [UTM_da_Regiao_Toda](../matlab_code/UTM_da_Regiao_Toda.m): Borders of the region is stored at [border.csv](./data/borders.csv) 
 
 - [x]  [Criar_Reg](../matlab_code/Criar_Reg.m): Generate the initial data to be used during the analysis  
     **Translation**: csv file [region.csv](./data/region.csv)
