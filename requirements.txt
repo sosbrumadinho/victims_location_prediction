@@ -1,6 +1,4 @@
-pandas
-numpy
-utm
-scipy
-math
-matplotlib
+pandas==0.24.1
+utm==0.4.2
+scipy==1.2.1
+matplotlib==3.0.2
