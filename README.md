@@ -29,3 +29,7 @@ contribute with you and how we can use what you are submitting.
   http://www.journalrepository.org/media/journals/JSRR_22/2015/May/Liu732015JSRR17346.pdf
 * Grid Fluid Sim 3D Exemples
   https://github.com/rlguy/GridFluidSim3D/tree/master/src/examples/python
+
+## Current stage
+
+At the moment part of the code has been developed in MATLAB. All the files can be found under the [matlab_code](./matlab_code) folder and it is being translated to Python. Check the [README](./test/README.md) file in the test folder for more details. 
